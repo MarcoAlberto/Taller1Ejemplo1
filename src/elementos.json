@@ -1,0 +1,46 @@
+[
+    {
+        "nombre": "Manzana",
+        "precio": 0.50
+    },
+    {
+        "nombre": "Banana",
+        "precio": 0.60
+    },
+    {
+        "nombre": "Fresa",
+        "precio": 0.40
+    },
+    {
+        "nombre": "Uva",
+        "precio": 0.30
+    },
+    {
+        "nombre": "Mango",
+        "precio": 1.50
+    },
+    {
+        "nombre": "Coco",
+        "precio": 0.90
+    },
+    {
+        "nombre": "Piña",
+        "precio": 0.80
+    },
+    {
+        "nombre": "Sandia",
+        "precio": 0.70
+    },
+    {
+        "nombre": "Melon",
+        "precio": 0.20
+    },
+    {
+        "nombre": "Limon",
+        "precio": 0.10
+    },
+    {
+        "nombre": "Pera",
+        "precio": 1.00
+    }
+]
